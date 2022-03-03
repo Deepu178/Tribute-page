@@ -1,0 +1,38 @@
+#main{
+    background-color:g
+  }
+  
+  #title{
+    font-size:3rem;
+    font-weight:bold;
+    text-align:center;
+  }
+  
+  #title-content{
+    font-size:20px;
+    font-weight:normal;
+  }
+  
+  #img-div{
+    text-align:center;
+  
+  }
+  
+  #image{
+    height:auto;
+  max-width:200px;
+    display:block;
+    text-align:center;
+  }
+  
+  #tribute-info{
+    width:40%;
+    position:relative;
+    left:1%;
+    text-align:left;
+  }
+  .lists{
+    margin-bottom:20px;
+  }
+  
+  
